@@ -1,7 +1,9 @@
+#!/usr/bin/env python
+
 import requests
 
 
-class Check:
+class SocialMediaChecker:
 
     def __init__(self):
         self.email = str(input("Enter an Email > "))
@@ -95,6 +97,6 @@ if __name__ == "__main__":
         ================🍍================
         
         """)
-Check()
+SocialMediaChecker()
 print("\n\t\t------------------\n\t\t[★] GOOD LUCK [★]\n\t\t------------------\n")
 input("[🔥] Press enter to exit > ")
