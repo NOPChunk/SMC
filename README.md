@@ -2,11 +2,11 @@
 A simple method to check an email ( has/ doesn't has )  Instagram, Twitter and SnapChat accounts
 ---------------------------------------------------------
 
-> Download the SocialMediaChecker.py by following this step:  
-git clone https://github.com/NOPChunk/SocialMediaChecker.git
+> Download the SMC.py by following this step:  
+git clone https://github.com/NOPChunk/SMC.git
 
 > Run it by using python3 :  
-python3 SocialMediaChecker.py
+python3 SMC.py
 
 > Enter an Email !   
 
